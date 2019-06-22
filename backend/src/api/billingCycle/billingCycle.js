@@ -23,5 +23,3 @@ const billingCycleSchema = new mongoose.Schema({
 
 module.exports = restful.model('BillingCycle', billingCycleSchema)
 
-module.exports= restful.model('BillingCycle', 
-
